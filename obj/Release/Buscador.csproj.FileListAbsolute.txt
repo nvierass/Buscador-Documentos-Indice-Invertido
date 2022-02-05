@@ -1,0 +1,7 @@
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\bin\Release\Buscador.exe.config
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\bin\Release\Buscador.exe
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\bin\Release\Buscador.pdb
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Release\Buscador.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Release\Buscador.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Release\Buscador.exe
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Release\Buscador.pdb

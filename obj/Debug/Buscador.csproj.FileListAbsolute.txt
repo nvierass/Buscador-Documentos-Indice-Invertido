@@ -1,0 +1,24 @@
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Debug\Buscador.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Debug\Buscador.Properties.Resources.resources
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Debug\Buscador.csproj.GenerateResource.Cache
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\bin\Debug\Buscador.exe.config
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\bin\Debug\Buscador.exe
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\bin\Debug\Buscador.pdb
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Debug\Buscador.exe
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Debug\Buscador.pdb
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Debug\Buscador.Vistas.VistaInicio.resources
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Debug\Buscador.Vistas.VistaPrincipal.resources
+C:\Users\Nicolas\Desktop\Laboratorio 4\Buscador\Buscador\obj\Debug\Buscador.Vistas.VistaResultados.resources
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\bin\Debug\Buscador.exe.config
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\bin\Debug\Buscador.exe
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\bin\Debug\Buscador.pdb
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.csproj.AssemblyReference.cache
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.csproj.SuggestedBindingRedirects.cache
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.Properties.Resources.resources
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.Vistas.VistaInicio.resources
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.Vistas.VistaPrincipal.resources
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.Vistas.VistaResultados.resources
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.csproj.GenerateResource.cache
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.csproj.CoreCompileInputs.cache
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.exe
+E:\Material de la U\Paradigmas\Codigo fuente\Buscador\obj\Debug\Buscador.pdb
