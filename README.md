@@ -9,5 +9,5 @@ Programación orientada a objetos.
 Programación digirida por eventos. (Patrón Publisher-Subscriber)
 Programación concurrente.
 
->.[!NOTE].
+.[!NOTE].
 Nota
